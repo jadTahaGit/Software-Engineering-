@@ -1,0 +1,31 @@
+Name: Jad Taha.
+
+
+Aufgabe 1:
+-----------
+
+1- Coding Standards wie file Organisation, Indentation, Kommentare, Declarations, Ausdrücke, Leere Zeichens, Namensgebung Konventionen, Programmierung Praktiken, Programmierung Prinzipien sind in eine Art und Weise ein Ziel für das Refactoring. Jede Änderung in dem Code, ohne Wirkung auf das Verhalten des Codes zu haben, ist ein Refactoring. Häufige Verwendungen von Refactoring sind Variablen Namen ändern, Methoden Umbenennen, Größere Methoden simplifizieren... Daraus kann man folgen dass, Je mehr man sich auf Coding Standards hält desto einfacher wird das Refactoring.
+
+2- Code Smells sind kratzen in dem Fundamental Design Prinzipien, sind keine Bugs, sind aber Schwächen in dem Design und können die Wahrscheinlichkeit erhöhen, zukünftig Bugs zu haben. Schrittweise löst man den schlechten Code Smell mit Refactoring.
+
+3- 
+
+
+
+
+Aufgabe 2:
+-----------
+
+1- Der Code berechnet den kürzesten Weg 
+
+
+2- * Functions should hardly ever be 20 Lines of Code.
+   * Don't use Comments when you can use function or variable!
+
+
+
+3- Code is in Navi.java  
+
+
+
+
